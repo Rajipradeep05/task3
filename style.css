@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: #151B54;
+    width: 100%;
+    height:auto;
+}
+.formcontainer{
+    background-color:#DDA0DD;
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 20px;
+}
+.loginform{
+    background-color: #1ce4bf;
+    width: 30%;
+    height: auto;
+}
+form{
+    background-color:#ff00ff ;
+    width: 100%;
+    height: auto;
+}
+.formgroup{
+     background:#FF6347;
+     width: 100%;
+     height: auto;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     padding: 60px 15px;
+}
+.input .placeholder{
+    background: #fff;
+    width: auto;
+    height:auto;
+    padding: 10px 5px;
+    text-align: center;
+    line-height: 2em;
+    border: 1px solid;
+}
